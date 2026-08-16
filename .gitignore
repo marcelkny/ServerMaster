@@ -1,0 +1,17 @@
+/.Trash-1000
+/.Trash-29999
+/DL
+/Kampfzwerg
+/lost+found
+/raspi_surveillance
+/Schnuffel
+/SICHERUNGEN
+/webspace
+/Zillo2004
+/GemeinsamerSpeicher
+
+*.DS_Store
+._plexmediaserver_1.32.0.6973-a787c5a8e_armhf.deb
+
+
+/*/node_modules
